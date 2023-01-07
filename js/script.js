@@ -17,21 +17,21 @@ const volumeSlider=document.querySelector(".volume-slider")
 const songs = [
   {
     path:
-      "media/Bande Naaf Ta Khatte Saaf .mp3",
+      "http://ssd.sazoseda.ir/1400/09/25/yas%20-%20band%20naf%20ta%20khate%20saaf%20[128].mp3",
     displayName: "Bande Naaf Ta Khatte Saaf",
     artist: "Yas",
     cover:
       "images/1.jfif",
   },
   {
-    path: "media/Boghz Yani .mp3",
+    path: "http://ssd.sazoseda.ir/1400/06/06/Yas%20-%20Be%20Khatere%20Man%20[128].mp3",
     displayName: "Boghz Yani",
     artist: "Yas",
     cover: "images/2.jfif",
   },
   {
     path:
-      "media/Vasiat Nameh.mp3",
+      "http://ssd.sazoseda.ir/1400/09/26/yas%20%20-%20vasiyat%20name%20[128].mp3",
     displayName: "Vasiat Nameh",
     artist: "Yas",
     cover:
@@ -39,7 +39,7 @@ const songs = [
   },
   {
     path:
-      "media/Faryas.mp3",
+      "http://ssd.sazoseda.ir/1400/09/24/yas%20%20-%20faryas%20[128].mp3",
     displayName: "Faryas",
     artist: "Yas",
     cover:
